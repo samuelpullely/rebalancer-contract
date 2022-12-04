@@ -1,0 +1,1 @@
+export CARDANO_NODE_MAGIC=1

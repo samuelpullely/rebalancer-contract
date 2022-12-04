@@ -1,0 +1,8 @@
+*.skey
+*.vkey
+wallet1.addr
+*.tx
+*.tx-signed
+*.json
+*.pkh
+*.script
